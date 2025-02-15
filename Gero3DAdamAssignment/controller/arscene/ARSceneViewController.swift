@@ -8,7 +8,6 @@
 import UIKit
 import SceneKit
 import ARKit
-import SensorKit
 
 class ARSceneViewController: UIViewController, UIGestureRecognizerDelegate {
     
